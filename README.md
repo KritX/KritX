@@ -1,7 +1,7 @@
 ![Header](https://github.com/KritX/KritX/blob/main/assets/Header3.png)
 
 ### Hi there 👋
-## I'm a beginner Youtuber and Software Engineer
+## I'm a beginner Software Engineer
 
 - 🔭 I’m currently working on new project!👿
 - 💬 Ask me about the meaning of life 🙇
