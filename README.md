@@ -1,4 +1,4 @@
-![Header](https://github.com/KritX/KritX/blob/main/assets/Header2.png)
+![Header](https://github.com/KritX/KritX/blob/main/assets/Header3.png)
 
 ### Hi there 👋
 ## I'm a beginner Youtuber and Software Engineer
