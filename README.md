@@ -14,3 +14,6 @@
 ![C#](https://img.shields.io/badge/--090909?style=for-the-badge&logo=C#!&logoColor=E5D3FF)
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
 ![Git](https://img.shields.io/github/followers/KritX?style=social)
+![Downloads](https://img.shields.io/sourceforge/dm/sevenzip?style=for-the-badge)
+![Platforms](https://img.shields.io/cocoapods/p/AFNetworking?style=for-the-badge)
+![Rating](https://img.shields.io/pkgreview/stars/npm/react?style=for-the-badge)
